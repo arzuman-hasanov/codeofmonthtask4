@@ -1,0 +1,22 @@
+.product-block {
+    display: flex !important;
+    flex-direction: row !important;
+}
+
+@media only screen and (max-width: 1200px) {
+    .card-img-top {
+        width: 60% !important;
+    }
+
+    
+}
+
+@media only screen and (max-width: 768px) {
+    .category {
+        font-size: 14px !important;
+    }
+
+    .product-title {
+        font-size: 25px;
+    }
+}

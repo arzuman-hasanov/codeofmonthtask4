@@ -1,0 +1,11 @@
+@media only screen and (max-width: 768px) {
+ 
+
+    .home-title {
+        font-size: 30px;
+    }
+
+    .home-sub-title {
+        font-size: 23px !important;
+    }
+}
